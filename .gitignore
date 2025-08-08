@@ -4,6 +4,7 @@
 .idea/
 .vscode
 posts.db
+instance
 ### Also any macOS specific files
 .DS_Store
 .AppleDouble
